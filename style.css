@@ -1,11 +1,22 @@
+<<<<<<< HEAD
+body{
+  
+=======
 body {
 color: white;
 background-color:black;
 margin: 0px 
 }
  header {
-border:solid 2px rgb(red, green, blue)
+border:solid 2px rgb(rgb(255, 121, 121), rgb(181, 89, 89), rgb(159, 61, 61))
 padding: 20px
+>>>>>>> 409844e919c84d5287f4575fee296a7b8426dba7
 
+<<<<<<< HEAD
+
+
+}
+=======
 
  }
+>>>>>>> 409844e919c84d5287f4575fee296a7b8426dba7
